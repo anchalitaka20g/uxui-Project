@@ -1,5 +1,5 @@
 
-## ⛳️ UX/UI Project Release
+## ⛳️ UX/UI Project
 
 - <a href='https://github.com/anchalitaka20g/uxui-Project/tree/main/Local%20Service' target='_blank'>Local Service กรมส่งเสริมการปกครองท้องถิ่น</a> - 2024-01-08
   <br/>draft wideframe and ui interface.
